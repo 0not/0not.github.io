@@ -1,0 +1,16 @@
+.post-title a {
+    color: $text-color;
+}
+
+.site-title {
+    display: inline;
+    @include media-query($on-palm) {
+        display: none;
+    }
+}
+.site-title-short {
+    display: none;
+    @include media-query($on-palm) {
+        display: inline;
+    }
+}

@@ -1,0 +1,16 @@
+---
+layout: post
+status: publish
+published: true
+title: Welcome!
+author: Kyle
+author_login: 0not
+author_email: unclekyky@gmail.com
+wordpress_id: 13
+wordpress_url: http://0not.net/?p=13
+date: '2014-02-18 06:18:56 -0700'
+date_gmt: '2014-02-18 06:18:56 -0700'
+categories:
+- General
+---
+Hello, world! My name is Kyle. I am a recent college graduate who loves to hack fun. By that, I mean that I find fun in everything. I will use this site as a way to share my hacks, from programming tricks to ghetto rigging transmissions. If you like science, programming, hiking, off roading, or life, then you will like this site. Stay tuned! In the mean time, take a look at the [about](/about/) page.

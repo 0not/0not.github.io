@@ -1,0 +1,15 @@
+# Site settings
+title: 0not -- Programming, hacking, making, and science.
+title_short: 0not
+logo: "/images/aught_icon_bigger.png"
+email: 0not.net@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I am a physicist, programmer, maker, and tinkerer. These are my creations.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://0not.net" # the base hostname & protocol for your site
+twitter_username: 0not
+github_username:  0not
+
+# Build settings
+#markdown: kramdown
+markdown: redcarpet

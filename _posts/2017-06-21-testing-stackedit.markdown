@@ -11,3 +11,5 @@ categories:
 - General
 ---
 This is just a test of a workflow I'm hoping to implement on this and another blog. Hopefully, by using StackEdit, I will have a much smaller barrier to publishing. Once the other site is ready, I'll post an update here.
+
+Edit: It works!
